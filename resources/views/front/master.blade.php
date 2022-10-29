@@ -101,7 +101,7 @@
                     <span class="navbar-toggler-icon"></span>
                   </button>
                   <a href="{{url('/')}}" class="logo-link">
-                    <img class="logo" src="{{asset('theme/assets/images/logos/logo-4.png')}}" alt="logo" />
+                    <img class="logo" src="#" alt="logo" />
                   </a>
                   <div class="offcanvas offcanvas-collapse order-lg-2" id="primaryMenu">
                     <div class="offcanvas-header navbar-shadow">
@@ -114,184 +114,26 @@
                         <!-- Home -->
                         <li class="nav-item dropdown dropdown-mega">
                           <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Home</a>
-                          <div class="dropdown-menu home-menu">
-                            <div class="row g-4">
-                              <div class="col-xl-2 mega-box">
-                                <a class="home-box" href="{{url('/')}}">
-                                  <img class="img-fluid" src="{{asset('theme/assets/images/demo-img/demo1.jpg')}}" alt="home1" />
-                                  <span>Fashion Demo</span>
-                                </a>
-                              </div>
-
-                              <div class="col-xl-2 mega-box">
-                                <a class="home-box" href="index-2.html">
-                                  <img class="img-fluid" src="{{asset('theme/assets/images/demo-img/demo2.jpg')}}" alt="home2" />
-                                  <span>Bag Demo</span>
-                                </a>
-                              </div>
-
-                              <div class="col-xl-2 mega-box">
-                                <a class="home-box" href="index-3.html">
-                                  <img class="img-fluid" src="{{asset('theme/assets/images/demo-img/demo3.jpg')}}" alt="home3" />
-                                  <span>Grocery Demo</span>
-                                </a>
-                              </div>
-
-                              <div class="col-xl-2 mega-box">
-                                <a class="home-box" href="index-4.html">
-                                  <img class="img-fluid" src="{{asset('theme/assets/images/demo-img/demo4.jpg')}}" alt="home4" />
-                                  <span>Furniture Demo</span>
-                                </a>
-                              </div>
-
-                              <div class="col-xl-2 mega-box">
-                                <a class="home-box" href="index-5.html">
-                                  <img class="img-fluid" src="{{asset('theme/assets/images/demo-img/demo5.jpg')}}" alt="home5" />
-                                  <span>Watch Demo</span>
-                                </a>
-                              </div>
-
-                              <div class="col-xl-2 mega-box">
-                                <a class="home-box" href="index-6.html">
-                                  <img class="img-fluid" src="{{asset('theme/assets/images/demo-img/demo6.jpg')}}" alt="home6" />
-                                  <span>Shoes Demo</span>
-                                </a>
-                              </div>
-                            </div>
-                          </div>
                         </li>
-
-                        <!-- Shop -->
-                        <li class="nav-item dropdown">
-                          <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Shop</a>
-                          <div class="dropdown-menu">
-                            <div class="dropdown-column">
-                              <a class="dropdown-item" href="shop-categories.html">Shop Categories</a>
-                              <a class="dropdown-item" href="shop-filter.html">Shop Filter</a>
-                              <a class="dropdown-item" href="shop-left-sidebar.html">Shop Left Sidebar</a>
-                              <a class="dropdown-item" href="shop-list.html">Shop List</a>
-                              <a class="dropdown-item" href="shop-masanory.html">Shop Masonry</a>
-                              <a class="dropdown-item" href="shop-no-sidebar.html">Shop No Sidebar</a>
-                              <a class="dropdown-item" href="shop-right-sidebar.html">Shop Right Sidebar</a>
-                              <a class="dropdown-item" href="shop-top-filter.html">Shop Top Filter</a>
-                            </div>
-                          </div>
-                        </li>
-
-                        <!-- Product -->
-                        <li class="nav-item dropdown">
-                          <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Product</a>
-                          <div class="dropdown-menu">
-                            <div class="dropdown-column">
-                              <a class="dropdown-item" href="product-four-image.html">Product 4 Images</a>
-                              <a class="dropdown-item" href="product-slider.html">Product Slider </a>
-                              <a class="dropdown-item" href="product-sticky.html">Product Sticky</a>
-                              <a class="dropdown-item" href="product-three-column.html">Product 3 Column</a>
-                              <a class="dropdown-item" href="product-video-img.html">Product Video</a>
-                              <a class="dropdown-item" href="product.html">Product Simple</a>
-                            </div>
-                          </div>
-                        </li>
-
-                        <!-- Oslo Plus -->
                         <li class="nav-item dropdown dropdown-mega">
-                          <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Oslo Plus</a>
-                          <div class="dropdown-menu mega-element-menu">
-                            <div class="row g-4">
-                              <div class="col-xl-3">
-                                <div class="link-box">
-                                  <h5>Portfolio Pages</h5>
-                                  <div class="dropdown-column">
-                                    <a class="dropdown-item" href="portfolio-2-grid.html">Portfolio 2 Grid</a>
-                                    <a class="dropdown-item" href="portfolio-2-grid-masonry.html">Portfolio 2 Grid Masonry</a>
-                                    <a class="dropdown-item" href="portfolio-3-grid.html">Portfolio 3 Grid <span class="badge bg-theme-theme">Hot</span></a>
-                                    <a class="dropdown-item" href="portfolio-3-grid-masonry.html">Portfolio 3 Grid Masonry</a>
-                                    <a class="dropdown-item" href="portfolio-4-grid.html">Portfolio 4 Grid</a>
-                                    <a class="dropdown-item" href="portfolio-4-grid-masonry.html">Portfolio 4 Grid Masonry</a>
-                                    <a class="dropdown-item" href="portfolio-no-space-masonry.html">Portfolio No Space Masonry</a>
-                                  </div>
-                                </div>
-                              </div>
-
-                              <div class="col-xl-3">
-                                <div class="link-box">
-                                  <h5>Elements Pages</h5>
-                                  <div class="dropdown-column">
-                                    <a class="dropdown-item" href="banner-element.html">Banner Element</a>
-                                    <a class="dropdown-item" href="brand-element.html">Brand Element</a>
-                                    <a class="dropdown-item" href="button-element.html">Button Element </a>
-                                    <a class="dropdown-item" href="categories-element.html">Categories Element</a>
-                                    <a class="dropdown-item" href="collection-banner-element.html">Collection Banner Element</a>
-                                    <a class="dropdown-item" href="home-element.html">Home Banner Element</a>
-                                    <a class="dropdown-item" href="instagram-element.html">Instagram Element <span class="badge bg-theme-sun2">New</span></a>
-                                  </div>
-                                </div>
-                              </div>
-
-                              <div class="col-xl-3">
-                                <div class="link-box">
-                                  <h5>Elements Pages</h5>
-                                  <div class="dropdown-column">
-                                    <a class="dropdown-item" href="offer-banner-element.html">Offer Banner Element</a>
-                                    <a class="dropdown-item" href="brand-element.html">Brand Element <span class="badge bg-theme-theme">Hot</span></a>
-                                    <a class="dropdown-item" href="product-card-element.html">Product Card Element</a>
-                                    <a class="dropdown-item" href="seller-element.html">Seller Section Element</a>
-                                    <a class="dropdown-item" href="service-element.html">Service Section Element</a>
-                                    <a class="dropdown-item" href="tabs-element.html">Tabs Element</a>
-                                    <a class="dropdown-item" href="title-element.html">Title Element</a>
-                                  </div>
-                                </div>
-                              </div>
-
-                              <div class="col-xl-3 d-none d-xl-block">
-                                <div class="link-box">
-                                  <div class="menu-img">
-                                    <img class="img-fluid" src="{{asset('theme/assets/images/demo-img/menu-bg.jpg')}}" alt="img" />
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
+                          <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Catalogue-1</a>
+                        </li>
+                        <li class="nav-item dropdown dropdown-mega">
+                          <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Catalogue-2</a>
+                        </li>
+                        <li class="nav-item dropdown dropdown-mega">
+                          <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Catalogue-3</a>
+                        </li>
+                        <li class="nav-item dropdown dropdown-mega">
+                          <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Catalogue-4</a>
                         </li>
 
-                        <!-- Pages -->
-                        <li class="nav-item dropdown">
-                          <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Pages</a>
-                          <div class="dropdown-menu">
-                            <div class="dropdown-column">
-                              <a class="dropdown-item" href="404.html">404</a>
-                              <a class="dropdown-item" href="about-us.html">About Us </a>
-                              <a class="dropdown-item" href="address.html">Address</a>
-                              <a class="dropdown-item" href="cart.html">Cart</a>
-                              <a class="dropdown-item" href="coming-soon.html">Coming Soon</a>
-                              <a class="dropdown-item" href="compare.html">Compare</a>
-                              <a class="dropdown-item" href="contact-us.html">Contact Us</a>
-                              <a class="dropdown-item" href="faqs.html">Faqs</a>
-                              <a class="dropdown-item" href="forgot-password.html">Forgot Password</a>
-                              <a class="dropdown-item" href="login.html">Login</a>
-                              <a class="dropdown-item" href="order-success.html">Order Success</a>
-                              <a class="dropdown-item" href="otp.html">Otp</a>
-                              <a class="dropdown-item" href="payment.html">Payment</a>
-                              <a class="dropdown-item" href="register.html">Register</a>
-                              <a class="dropdown-item" href="reset-password.html">Reset Password</a>
-                              <a class="dropdown-item" href="search.html">Search</a>
-                              <a class="dropdown-item" href="user-dashboard.html">User Dashboard</a>
-                              <a class="dropdown-item" href="wishlist.html">Wishlist</a>
-                            </div>
-                          </div>
+                        <li class="nav-item dropdown dropdown-mega">
+                          <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Request Art</a>
                         </li>
 
-                        <!-- Blog -->
-                        <li class="nav-item dropdown">
-                          <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Blog</a>
-                          <div class="dropdown-menu">
-                            <div class="dropdown-column">
-                              <a class="dropdown-item" href="blog-detail.html">Blog Details</a>
-                              <a class="dropdown-item" href="blog-grid.html">Blog Grid </a>
-                              <a class="dropdown-item" href="blog-list.html">Blog List</a>
-                            </div>
-                          </div>
-                        </li>
+
+
                       </ul>
                     </div>
                   </div>
@@ -367,7 +209,7 @@
                                 <i data-feather="star"></i>
                               </li>
                             </ul>
-                            <p class="mb-0 mt-1">$280.00</p>
+                            <p class="mb-0 mt-1">kes 10280.00</p>
                           </div>
                         </div>
                       </li>
@@ -395,7 +237,7 @@
                                 <i data-feather="star"></i>
                               </li>
                             </ul>
-                            <p class="mb-0 mt-1">$35.00</p>
+                            <p class="mb-0 mt-1">kes 1035.00</p>
                           </div>
                         </div>
                       </li>
@@ -451,7 +293,7 @@
                           <a href="product.html"> <img src="{{asset('theme/assets/images/fashion/product/front/8.jpg')}}" class="img-fluid" alt="product" /> </a>
                           <div class="media-body">
                             <a href="product.html"> <h6>Concrete Jungle Pack</h6></a>
-                            <span>$120.00</span>
+                            <span>kes 10120.00</span>
                             <div class="plus-minus">
                               <i class="sub" data-feather="minus"></i>
                               <input type="number" value="1" min="1" max="10" />
@@ -467,7 +309,7 @@
                           <a href="product.html"> <img src="{{asset('theme/assets/images/fashion/product/front/9.jpg')}}" class="img-fluid" alt="product" /> </a>
                           <div class="media-body">
                             <a href="product.html"> <h6>Concrete Jungle Pack</h6></a>
-                            <span>$120.00</span>
+                            <span>kes 10120.00</span>
                             <div class="plus-minus">
                               <i class="sub" data-feather="minus"></i>
                               <input type="number" value="1" min="1" max="10" />
@@ -483,7 +325,7 @@
                           <a href="product.html"> <img src="{{asset('theme/assets/images/fashion/product/front/7.jpg')}}" class="img-fluid" alt="product" /> </a>
                           <div class="media-body">
                             <a href="product.html"> <h6>Concrete Jungle Pack</h6></a>
-                            <span>$120.00</span>
+                            <span>kes 10120.00</span>
                             <div class="plus-minus">
                               <i class="sub" data-feather="minus"></i>
                               <input type="number" value="1" min="1" max="10" />
@@ -496,14 +338,14 @@
                       </div>
                       <div class="dropdown-footer">
                         <div class="freedelevery">
-                          <p class="terms-condition">FREE SHIPPING! Continue Shopping to add more product to you cart and receive free shipping for orders over <strong>$500</strong></p>
+                          <p class="terms-condition">FREE SHIPPING! Continue Shopping to add more product to you cart and receive free shipping for orders over <strong>kes 10500</strong></p>
                           <div class="progress">
                             <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">70%</div>
                           </div>
                         </div>
                         <div class="total-price">
                           <span>Total</span>
-                          <span>$450</span>
+                          <span>kes 10450</span>
                         </div>
 
                         <div class="btn-group block-group">
@@ -543,14 +385,14 @@
             <div class="row gy-3 gy-md-4 gy-xl-0">
               <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="content-box">
-                  <img class="logo" src="{{asset('theme/assets/images/logos/logo-4-w.png')}}" alt="logo-white" />
+                  <img class="logo" src="#" alt="logo-white" />
                   <ul>
-                    <li><i data-feather="map-pin"></i> <span> 1418 Riverwood Drive, Suite 3245 Cottonwood, CA 96052, United States </span></li>
+                    <li><i data-feather="map-pin"></i> <span> 3571 Riverside Downs, Suite A4 Lower Floor, CA 3571, Gitaru Road </span></li>
                     <li>
-                      <i data-feather="phone"></i><a class="nav" href="tel:185659635"><span> + 185659635 </span></a>
+                      <i data-feather="phone"></i><a class="nav" href="tel:254723014032"><span> + 254723014032 </span></a>
                     </li>
                     <li>
-                      <i data-feather="mail"></i><a class="nav" href="mailto:fashion098@gmail.com"><span> fashion098@gmail.com </span></a>
+                      <i data-feather="mail"></i><a class="nav" href="mailto:hello@artdecor.co.ke"><span> hello@artdecor.co.ke </span></a>
                     </li>
                   </ul>
                 </div>
@@ -658,7 +500,7 @@
                 </ul>
               </div>
               <div class="col-md-6">
-                <p class="mb-0">Copyright © {{date('Y')}}, All Rights Reserved Template. Powered By Designekta Studios</p>
+                <p class="mb-0">Copyright © {{date('Y')}} Arts & Decor Kenya | All Rights Reserved | Powered By Designekta Studios</p>
               </div>
             </div>
           </div>
@@ -790,7 +632,7 @@
                     <h4>Oak Furniture Store</h4>
                     <div class="option price">
                       <h5>Price</h5>
-                      <span> $200.00 </span> <del>$300.00</del>
+                      <span> kes 10200.00 </span> <del>kes 10300.00</del>
                     </div>
                     <div class="option">
                       <h5>Product Description</h5>

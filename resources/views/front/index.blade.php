@@ -53,7 +53,7 @@
                   </svg>
                   <div class="media-body">
                     <h5>Free Shipping</h5>
-                    <span>From all orders over $200</span>
+                    <span>From all orders over kes 10200</span>
                   </div>
                 </div>
               </div>
@@ -253,7 +253,7 @@
                       <h5>Rohe Chair</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -307,7 +307,7 @@
                       <h5>White Sofa chair</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -361,7 +361,7 @@
                       <h5>Blue Plates</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -415,7 +415,7 @@
                       <h5>Table Wing Chair Fredericia</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -469,7 +469,7 @@
                       <h5>Stool Wing chair, table</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -523,7 +523,7 @@
                       <h5>Incandescent light bulb</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -577,7 +577,7 @@
                       <h5>Coffee Table</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -632,7 +632,7 @@
                       <h5>Egg Chair</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -687,7 +687,7 @@
                       <h5>Unique modern lamp</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -741,7 +741,7 @@
                       <h5>White stool</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -803,7 +803,7 @@
                       <h5>Rohe Chair</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -857,7 +857,7 @@
                       <h5>White Sofa chair</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -911,7 +911,7 @@
                       <h5>Blue Plates</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -965,7 +965,7 @@
                       <h5>Table Wing Chair Fredericia</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -1019,7 +1019,7 @@
                       <h5>Stool Wing chair, table</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -1073,7 +1073,7 @@
                       <h5>Incandescent light bulb</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -1127,7 +1127,7 @@
                       <h5>Coffee Table</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -1182,7 +1182,7 @@
                       <h5>Egg Chair</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -1237,7 +1237,7 @@
                       <h5>Unique modern lamp</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -1291,7 +1291,7 @@
                       <h5>White stool</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -1353,7 +1353,7 @@
                       <h5>Rohe Chair</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -1407,7 +1407,7 @@
                       <h5>White Sofa chair</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -1461,7 +1461,7 @@
                       <h5>Blue Plates</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -1515,7 +1515,7 @@
                       <h5>Table Wing Chair Fredericia</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -1569,7 +1569,7 @@
                       <h5>Stool Wing chair, table</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -1623,7 +1623,7 @@
                       <h5>Incandescent light bulb</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -1677,7 +1677,7 @@
                       <h5>Coffee Table</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -1732,7 +1732,7 @@
                       <h5>Egg Chair</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -1787,7 +1787,7 @@
                       <h5>Unique modern lamp</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -1841,7 +1841,7 @@
                       <h5>White stool</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -1903,7 +1903,7 @@
                       <h5>Rohe Chair</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -1957,7 +1957,7 @@
                       <h5>White Sofa chair</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -2011,7 +2011,7 @@
                       <h5>Blue Plates</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -2065,7 +2065,7 @@
                       <h5>Table Wing Chair Fredericia</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -2119,7 +2119,7 @@
                       <h5>Stool Wing chair, table</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -2173,7 +2173,7 @@
                       <h5>Incandescent light bulb</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -2227,7 +2227,7 @@
                       <h5>Coffee Table</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -2282,7 +2282,7 @@
                       <h5>Egg Chair</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -2337,7 +2337,7 @@
                       <h5>Unique modern lamp</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -2391,7 +2391,7 @@
                       <h5>White stool</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -2516,7 +2516,7 @@
               </span>
             </h5>
             <h6 class="collection-title"><span class="line"></span> New Collection</h6>
-            <p>Best offer on new collection furniture visit now before late, best value for money on buying any product above $250.00. there are many people who take advantage of this offer</p>
+            <p>Best offer on new collection furniture visit now before late, best value for money on buying any product above kes 10250.00. there are many people who take advantage of this offer</p>
 
             <div class="btn-box">
               <div class="btn-style4">
@@ -2624,7 +2624,7 @@
                       <h5>Cushion back</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -2678,7 +2678,7 @@
                       <h5>Chair</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$150.00</span> <del>$200.00</del></div>
+                        <div class="price"><span>kes 10150.00</span> <del>kes 10200.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -2732,7 +2732,7 @@
                       <h5>Pendant light</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$100.00</span> <del>$120.00</del></div>
+                        <div class="price"><span>kes 10100.00</span> <del>kes 10120.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -2786,7 +2786,7 @@
                       <h5>Oak Furniture Store</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$200.00</span> <del>$250.00</del></div>
+                        <div class="price"><span>kes 10200.00</span> <del>kes 10250.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -2840,7 +2840,7 @@
                       <h5>Stool Wing chair, table</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$220.00</span> <del>$250.00</del></div>
+                        <div class="price"><span>kes 10220.00</span> <del>kes 10250.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -2903,7 +2903,7 @@
                       <h5>Cushion back</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -2957,7 +2957,7 @@
                       <h5>Chair</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$150.00</span> <del>$200.00</del></div>
+                        <div class="price"><span>kes 10150.00</span> <del>kes 10200.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -3011,7 +3011,7 @@
                       <h5>Pendant light</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$100.00</span> <del>$120.00</del></div>
+                        <div class="price"><span>kes 10100.00</span> <del>kes 10120.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -3065,7 +3065,7 @@
                       <h5>Oak Furniture Store</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$200.00</span> <del>$250.00</del></div>
+                        <div class="price"><span>kes 10200.00</span> <del>kes 10250.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -3119,7 +3119,7 @@
                       <h5>Stool Wing chair, table</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$220.00</span> <del>$250.00</del></div>
+                        <div class="price"><span>kes 10220.00</span> <del>kes 10250.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -3182,7 +3182,7 @@
                       <h5>Cushion back</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -3236,7 +3236,7 @@
                       <h5>Chair</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$150.00</span> <del>$200.00</del></div>
+                        <div class="price"><span>kes 10150.00</span> <del>kes 10200.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -3290,7 +3290,7 @@
                       <h5>Pendant light</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$100.00</span> <del>$120.00</del></div>
+                        <div class="price"><span>kes 10100.00</span> <del>kes 10120.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -3344,7 +3344,7 @@
                       <h5>Oak Furniture Store</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$200.00</span> <del>$250.00</del></div>
+                        <div class="price"><span>kes 10200.00</span> <del>kes 10250.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -3398,7 +3398,7 @@
                       <h5>Stool Wing chair, table</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$220.00</span> <del>$250.00</del></div>
+                        <div class="price"><span>kes 10220.00</span> <del>kes 10250.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -3461,7 +3461,7 @@
                       <h5>Cushion back</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$50.00</span> <del>$58.00</del></div>
+                        <div class="price"><span>kes 1050.00</span> <del>kes 1058.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -3515,7 +3515,7 @@
                       <h5>Chair</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$150.00</span> <del>$200.00</del></div>
+                        <div class="price"><span>kes 10150.00</span> <del>kes 10200.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -3569,7 +3569,7 @@
                       <h5>Pendant light</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$100.00</span> <del>$120.00</del></div>
+                        <div class="price"><span>kes 10100.00</span> <del>kes 10120.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -3623,7 +3623,7 @@
                       <h5>Oak Furniture Store</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$200.00</span> <del>$250.00</del></div>
+                        <div class="price"><span>kes 10200.00</span> <del>kes 10250.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -3677,7 +3677,7 @@
                       <h5>Stool Wing chair, table</h5>
 
                       <div class="price-box">
-                        <div class="price"><span>$220.00</span> <del>$250.00</del></div>
+                        <div class="price"><span>kes 10220.00</span> <del>kes 10250.00</del></div>
                         <ul class="rating p-0 mb">
                           <li>
                             <i class="fill" data-feather="star"></i>
@@ -3920,7 +3920,7 @@
                         </span>
                         <p>New Offer- 45% Discount</p>
                         <h5>Home Decor Furniture</h5>
-                        <span class="price">$120</span>
+                        <span class="price">kes 10120</span>
 
                         <div class="control">
                           <a href="wishlist.html">
@@ -3962,7 +3962,7 @@
                         </span>
                         <p>New Offer- 45% Discount</p>
                         <h5>Home Decor Furniture</h5>
-                        <span class="price">$120</span>
+                        <span class="price">kes 10120</span>
 
                         <div class="control">
                           <a href="wishlist.html">
@@ -4004,7 +4004,7 @@
                         </span>
                         <p>New Offer- 45% Discount</p>
                         <h5>Home Decor Furniture</h5>
-                        <span class="price">$120</span>
+                        <span class="price">kes 10120</span>
 
                         <div class="control">
                           <a href="wishlist.html">
@@ -4046,7 +4046,7 @@
                         </span>
                         <p>New Offer- 45% Discount</p>
                         <h5>Home Decor Furniture</h5>
-                        <span class="price">$120</span>
+                        <span class="price">kes 10120</span>
 
                         <div class="control">
                           <a href="wishlist.html">
@@ -4088,7 +4088,7 @@
                         </span>
                         <p>New Offer- 45% Discount</p>
                         <h5>Home Decor Furniture</h5>
-                        <span class="price">$120</span>
+                        <span class="price">kes 10120</span>
 
                         <div class="control">
                           <a href="wishlist.html">
@@ -4130,7 +4130,7 @@
                         </span>
                         <p>New Offer- 45% Discount</p>
                         <h5>Home Decor Furniture</h5>
-                        <span class="price">$120</span>
+                        <span class="price">kes 10120</span>
 
                         <div class="control">
                           <a href="wishlist.html">
