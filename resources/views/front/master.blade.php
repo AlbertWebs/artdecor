@@ -7,9 +7,9 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <meta name="description" content="oslo" />
-    <meta name="keywords" content="oslo" />
-    <meta name="author" content="oslo" />
+    <meta name="description" content="artsndecorke" />
+    <meta name="keywords" content="artsndecorke" />
+    <meta name="author" content="artsndecorke" />
     <link rel="icon" href="{{asset('favicon/apple-icon-180x180.png')}}" type="image/x-icon" />
     <link rel="shortcut icon" href="{{asset('favicon/apple-icon-180x180.png')}}" type="image/x-icon" />
     <link rel="manifest" href="manifest.json" />
@@ -18,14 +18,14 @@
     <meta name="theme-color" content="#0f8fac" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-    <meta name="apple-mobile-web-app-title" content="Oslo" />
+    <meta name="apple-mobile-web-app-title" content="artsndecorke" />
     <meta name="msapplication-TileImage" content="{{asset('favicon/apple-icon-180x180.png')}}" />
     <meta name="msapplication-TileColor" content="#FFFFFF" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <title>Arts & Decor | Portraits Drawings Wallpapers in Nairobi</title>
 
     @include('favicon')
-
+    @include('seo')
     <!-- Google Jost Font -->
     <link rel="preconnect" href="https://fonts.googleapis.com/" />
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
@@ -262,7 +262,7 @@
                 <div class="dropdown whislist-dropdown">
                   <a href="javascript:void(0)"><i data-feather="heart"></i> <span class="notification-label">0</span></a>
                   <div class="onhover-show-div">
-                    <a href="wishlist.html"> <img src="https://themes.pixelstrap.com/oslo/assets/icons/svg/box.svg" class="img-fluid" alt="box" /> </a>
+                    <a href="wishlist.html"> <img src="https://themes.pixelstrap.com/artsndecorke/assets/icons/svg/box.svg" class="img-fluid" alt="box" /> </a>
                     <div class="content">
                       <a href="wishlist.html">
                         <h6>Your wishlist empty !!</h6>
@@ -445,13 +445,13 @@
                   <div class="follow-wrap">
                     <ul>
                       <li>
-                        <a href="https://www.facebook.com/"> <img src="https://themes.pixelstrap.com/oslo/assets/icons/svg/social/fb.svg" alt="fb" /> </a>
+                        <a href="https://www.facebook.com/"> <img src="https://themes.pixelstrap.com/artsndecorke/assets/icons/svg/social/fb.svg" alt="fb" /> </a>
                       </li>
                       <li>
-                        <a href="https://www.instagram.com/accounts/login/?source=auth_switcher"> <img src="https://themes.pixelstrap.com/oslo/assets/icons/svg/social/inta.svg" alt="fb" /> </a>
+                        <a href="https://www.instagram.com/accounts/login/?source=auth_switcher"> <img src="https://themes.pixelstrap.com/artsndecorke/assets/icons/svg/social/inta.svg" alt="fb" /> </a>
                       </li>
                       <li>
-                        <a href="https://twitter.com/i/flow/login"> <img src="https://themes.pixelstrap.com/oslo/assets/icons/svg/social/tw.svg" alt="fb" /> </a>
+                        <a href="https://twitter.com/i/flow/login"> <img src="https://themes.pixelstrap.com/artsndecorke/assets/icons/svg/social/tw.svg" alt="fb" /> </a>
                       </li>
 
                     </ul>
