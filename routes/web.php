@@ -14,8 +14,9 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
-
-
+Route::get('/art-collections', [App\Http\Controllers\HomeController::class, 'collections'])->name('collections');
+Route::get('/art/{slung}', [App\Http\Controllers\HomeController::class, 'art'])->name('art');
+Route::get('/contact-us', [App\Http\Controllers\HomeController::class, 'contact'])->name('contact');
 
 Auth::routes();
 

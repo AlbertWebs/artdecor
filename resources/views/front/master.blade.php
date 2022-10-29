@@ -10,19 +10,21 @@
     <meta name="description" content="oslo" />
     <meta name="keywords" content="oslo" />
     <meta name="author" content="oslo" />
-    <link rel="icon" href="{{asset('theme/assets/images/favicon/favicon.png')}}" type="image/x-icon" />
-    <link rel="shortcut icon" href="{{asset('theme/assets/images/favicon/favicon.png')}}" type="image/x-icon" />
+    <link rel="icon" href="{{asset('favicon/apple-icon-180x180.png')}}" type="image/x-icon" />
+    <link rel="shortcut icon" href="{{asset('favicon/apple-icon-180x180.png')}}" type="image/x-icon" />
     <link rel="manifest" href="manifest.json" />
-    <link rel="icon" href="{{asset('theme/assets/images/favicon/favicon.png')}}" type="image/x-icon" />
-    <link rel="apple-touch-icon" href="{{asset('theme/assets/images/favicon/favicon.png')}}" />
+    <link rel="icon" href="{{asset('favicon/apple-icon-180x180.png')}}" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="{{asset('favicon/apple-icon-180x180.png')}}" />
     <meta name="theme-color" content="#0f8fac" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
     <meta name="apple-mobile-web-app-title" content="Oslo" />
-    <meta name="msapplication-TileImage" content="{{asset('theme/assets/images/favicon/favicon.png')}}" />
+    <meta name="msapplication-TileImage" content="{{asset('favicon/apple-icon-180x180.png')}}" />
     <meta name="msapplication-TileColor" content="#FFFFFF" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>Oslo | Home</title>
+    <title>Arts & Decor | Portraits Drawings Wallpapers in Nairobi</title>
+
+    @include('favicon')
 
     <!-- Google Jost Font -->
     <link rel="preconnect" href="https://fonts.googleapis.com/" />
@@ -98,7 +100,7 @@
                   <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#primaryMenu" aria-controls="primaryMenu">
                     <span class="navbar-toggler-icon"></span>
                   </button>
-                  <a href="index.html" class="logo-link">
+                  <a href="{{url('/')}}" class="logo-link">
                     <img class="logo" src="{{asset('theme/assets/images/logos/logo-4.png')}}" alt="logo" />
                   </a>
                   <div class="offcanvas offcanvas-collapse order-lg-2" id="primaryMenu">
@@ -115,7 +117,7 @@
                           <div class="dropdown-menu home-menu">
                             <div class="row g-4">
                               <div class="col-xl-2 mega-box">
-                                <a class="home-box" href="index.html">
+                                <a class="home-box" href="{{url('/')}}">
                                   <img class="img-fluid" src="{{asset('theme/assets/images/demo-img/demo1.jpg')}}" alt="home1" />
                                   <span>Fashion Demo</span>
                                 </a>
@@ -572,7 +574,7 @@
                 <div class="nav d-md-block content-box">
                   <h5 class="heading-footer line-style">Information</h5>
                   <ul>
-                    <li><a class="nav" href="index.html">Home </a></li>
+                    <li><a class="nav" href="{{url('/')}}">Home </a></li>
                     <li><a class="nav" href="shop-left-sidebar.html">Shop </a></li>
                     <li><a class="nav" href="about-us.html">About Us</a></li>
                     <li><a class="nav" href="blog-detail.html">Blog </a></li>
@@ -609,9 +611,7 @@
                       <li>
                         <a href="https://twitter.com/i/flow/login"> <img src="https://themes.pixelstrap.com/oslo/assets/icons/svg/social/tw.svg" alt="fb" /> </a>
                       </li>
-                      <li>
-                        <a href="https://in.pinterest.com/"> <img src="https://themes.pixelstrap.com/oslo/assets/icons/svg/social/pint.svg" alt="fb" /> </a>
-                      </li>
+
                     </ul>
                   </div>
 
@@ -671,7 +671,7 @@
     <footer class="mobile-menu-footer d-sm-none">
       <ul>
         <li>
-          <a href="index.html" class="active">
+          <a href="{{url('/')}}" class="active">
             <i data-feather="home"></i>
             <span>Home</span>
           </a>

@@ -3743,7 +3743,7 @@
           <div class="col-md-6">
             <div class="center-box">
               <div class="decoration-content">
-                <h5><strong> New Decoration</strong> Solutions for Home.</h5>
+                <h5><strong> New Decoration</strong> Have Ideas? Request Here.</h5>
                 <p class="truncate-3">
                   We provide qualified interior designers for your desired furniture, all are the best in their field. all have unique ideas and creativity so your dream home comes true.
                 </p>
@@ -3771,7 +3771,7 @@
                       <span class="corner"></span>
                     </span>
 
-                    Shop Now
+                    Request Art
                   </a>
                 </div>
               </div>
